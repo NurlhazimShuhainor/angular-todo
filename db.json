@@ -1,0 +1,15 @@
+{
+  "todos": [
+    {
+      "task": "Make new project",
+      "completed": false,
+      "id": "u6lhXgyYmNI"
+    },
+    {
+      "task": "Delete notes",
+      "completed": false,
+      "id": "L0iVZ2Brnv4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
